@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot-server",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "22.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
